@@ -1,0 +1,6 @@
+@TheLiteraryHub_HostAddress = http://localhost:5091
+
+GET {{TheLiteraryHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
